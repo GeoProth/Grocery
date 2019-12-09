@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Grocery/AppDelegate.swift"
+            timestampString = "586737819.767934"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "AppDelegate"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Grocery.AppDelegate.__deallocating_deinit"
+                  moduleName = "Grocery"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/GeoProth/Desktop/CS3260/final-project/finalproject-GeoProth/Grocery/AppDelegate.swift"
+                  timestampString = "586286145.98692"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Grocery.AppDelegate.__allocating_init() -&gt; Grocery.AppDelegate"
+                  moduleName = "Grocery"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/GeoProth/Desktop/CS3260/final-project/finalproject-GeoProth/Grocery/AppDelegate.swift"
+                  timestampString = "586286145.990049"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Grocery.AppDelegate.init() -&gt; Grocery.AppDelegate"
+                  moduleName = "Grocery"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/GeoProth/Desktop/CS3260/final-project/finalproject-GeoProth/Grocery/AppDelegate.swift"
+                  timestampString = "586286145.9928499"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "24">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "Grocery"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/GeoProth/Desktop/CS3260/final-project/finalproject-GeoProth/Grocery/AppDelegate.swift"
+                  timestampString = "586286145.99547"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "4">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
